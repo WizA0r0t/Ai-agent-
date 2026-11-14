@@ -3,6 +3,12 @@
        alt="GF-26-01B"
        width="100%">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/University-SFU-1E5AA8">
+  <img src="https://img.shields.io/badge/Group-GF--26--01B-2675C9">
+  <img src="https://img.shields.io/badge/Typst-Documents-239DAD">
+  <img src="https://img.shields.io/badge/Year-2026-34495E">
+</p>
 # GF-26-01B
 
 Репозиторий учебной группы **ГФ26-01Б** Сибирского федерального университета.
